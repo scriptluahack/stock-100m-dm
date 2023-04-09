@@ -1,4 +1,1 @@
-{
-"100mdiamonds" = "50 in stock",
-"easteryetirb" = "50 in stock"
-}
+script.Parent.Text = "50 in stock"
